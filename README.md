@@ -20,18 +20,7 @@ If you find our work useful in your research, please consider citing:
 	    pages={1--5},
 	    year={2023},
 	    organization={IEEE}
-	  }
-	
-### License
-
-  @inproceedings{denis2023improved,
-    title={Improved Block Merging for 3D Point Cloud Instance Segmentation},
-    author={Denis, Leon and Royen, Remco and Munteanu, Adrian},
-    booktitle={2023 24th International Conference on Digital Signal Processing (DSP)},
-    pages={1--5},
-    year={2023},
-    organization={IEEE}
-  }
+	}
 	
 ### License
 Our code is released under MIT License (see LICENSE file for details).
