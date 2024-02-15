@@ -6,7 +6,7 @@
 
 ### Introduction
 
-This repository is the official code release of the work from our [conference paper]([https://www.sciencedirect.com/science/article/pii/S089360802100023X?via%3Dihub](https://ieeexplore.ieee.org/document/10167976)), published in 2023 24th International Conference on Digital Signal Processing (DSP).
+This repository is the official code release of the work from our [conference paper](https://ieeexplore.ieee.org/document/10167976), published in 2023 24th International Conference on Digital Signal Processing (DSP).
 
 This paper proposes a novel block merging algorithm suitable for any block-based 3D instance segmentation technique. The proposed work improves over the state-of-the-art by allowing wrongly labelled points of already processed blocks to be corrected through label propagation. By doing so, instance overlap between blocks is not anymore necessary to produce the desirable results, which is the main limitation of the current art. Our experiments show that the proposed block merging algorithm significantly and consistently improves the obtained accuracy for all evaluation metrics employed in literature, regardless of the underlying network architecture.
 
